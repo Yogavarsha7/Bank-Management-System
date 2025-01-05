@@ -1,3 +1,4 @@
+[230648449-6332a8a2-22ce-4525-874a-85d6bce9bf79.webm](https://github.com/user-attachments/assets/835b19ba-b426-4c3a-8661-32de5acc3eee)
 # Bank-Management-System
 Demonstration of bank management system
 ![227252707-215ccd74-30d2-4641-967a-4e5c6a3633d6](https://github.com/user-attachments/assets/35f89f7f-46fb-46df-93d5-1d90694246b8)
